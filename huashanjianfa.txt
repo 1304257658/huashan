@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 123
-=======
 华山剑法
 hello
 我是令狐冲
 hello
 nihao
->>>>>>> temp1
