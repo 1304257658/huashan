@@ -1,10 +1,9 @@
 123
-<<<<<<< HEAD
-=======
 华山剑法
 hello
 我是令狐冲
 hello
 nihao
->>>>>>> temp
+edit by lhc
 edit by ybq
+ssh
